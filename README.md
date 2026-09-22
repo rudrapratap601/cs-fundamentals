@@ -1,0 +1,1 @@
+A foundational repository dedicated to core Computer Science concepts for software engineering interview preparation, covering essential topics, key trade-offs, and frequently asked interview questions across DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming
